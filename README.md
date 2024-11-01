@@ -31,7 +31,7 @@ Desenvolvedor mobile focado em criar soluções intuitivas e eficientes. Apaixon
 ---
 
 ## 📈 Minhas Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasromero&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasreei&layout=compact&theme=radical)
 
 ---
 
