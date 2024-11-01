@@ -2,7 +2,7 @@
 
 Desenvolvedor mobile focado em criar soluções intuitivas e eficientes. Apaixonado por tecnologia, inovação e pela constante busca de aprendizado. 🚀
 
-![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=lukasromero&show_icons=true&theme=radical)
+![Perfil GitHub](https://github-readme-stats.vercel.app/api?username=lukasreei&show_icons=true&theme=radical)
 
 ---
 
